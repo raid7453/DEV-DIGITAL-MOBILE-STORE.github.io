@@ -8,4 +8,8 @@ p {   font-size : 28px;
       text-align : center;
       color:#F2AA4CFF;
       text-decoration:underline;
+      background-color : pink;
+      border : dotted white 14px;
+      padding : 30px
   }
+ 	
