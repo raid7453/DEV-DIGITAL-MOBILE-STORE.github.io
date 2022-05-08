@@ -1,8 +1,4 @@
 
-td { font-size: 30px;
-     color: blue;
-   }
-  
 td { font-size: 25px;
      color: black;
    }
@@ -10,6 +6,6 @@ td { font-size: 25px;
 
 p {   font-size : 28px;
       text-align : center;
-      color: yellow;
+      color: blue;
       text-decoration:underline;
   }
