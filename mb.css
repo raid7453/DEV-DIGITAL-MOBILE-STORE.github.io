@@ -6,10 +6,10 @@ td { font-size: 25px;
 
 p {   font-size : 28px;
       text-align : center;
-      color:#F2AA4CFF;
+      color:#00FFFF;
       text-decoration:underline;
-      background-color : pink;
-      border : dotted white 14px;
-      padding : 30px
+      background-color:black;
+      border : solid black 6px;
+      padding : 7px
   }
  	
